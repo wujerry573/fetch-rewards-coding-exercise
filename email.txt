@@ -1,0 +1,13 @@
+Hello (stakeholder's name),
+
+I recently completed an analysis of some reward data consisting of brands, users, and receipts. While the data is solid, there are a few caveats that I noticed and wanted to bring to your attention.
+
+Brand data revealed that there were about 234 of missing category codes and 650 category codes to its respective barcode.
+Roughly 283 rows of user data are duplicated, which is more than half of the dataset.
+Within the receipts data, there is a concern for data consistency, as there are many empty values. The most noticable field is within the receipt item list, as there are many items with no barcodes linked to it. This would make linking this data more difficult to other sets of data as there is no unique identifier.
+Finally, looking at the data from an overall perspective, it would be good to have some discussions on how we can format and rearrange the data to make it more scalable and easier to process as the business grows. This would allow our dashboards to utilize the data more efficiently.
+
+I'm more than happy to hop on a call to discuss these topics more in depth or if there are any questions that you have.
+
+Thanks,
+Jerry
